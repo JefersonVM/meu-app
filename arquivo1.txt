@@ -1,1 +1,2 @@
 Uma linha no arquivo
+Mais uma linha
